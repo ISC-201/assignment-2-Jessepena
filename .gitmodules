@@ -1,3 +1,6 @@
 [submodule "Asteroids"]
 	path = Asteroids
 	url = https://github.com/Jessepena/Asteroids.git
+[submodule "_Asteroids"]
+	path = _Asteroids
+	url = https://github.com/Jessepena/_Asteroids.git
